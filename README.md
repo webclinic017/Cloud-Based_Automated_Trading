@@ -1,5 +1,5 @@
 ## Description
-High-frequency trading system focused on CME's WTI. 
+High-frequency trading system with scope on CME's WTI. 
 
 ## Tools
 - Interactive Brokers Gateway and IBPY (wrapper for API calls( https://github.com/blampe/IbPy)
