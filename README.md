@@ -7,5 +7,11 @@ High-frequency trading system with scope on CME's WTI.
 - concurrent.Futures for concurrency
 - plot.ly for stream strategy execution to a remote charting display
 
+## Sample of trade execution and indicators
+![Trade demo](./trade sample)
+
+## Distribution of Out-of-sample results
+![Distribution](./Distribution)
+
 ## Testing
 It has been tested on a AWS server running Ubuntu. 
