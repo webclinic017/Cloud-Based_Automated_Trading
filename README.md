@@ -8,10 +8,10 @@ High-frequency trading system with scope on CME's WTI.
 - plot.ly for stream strategy execution to a remote charting display
 
 ## Sample of trade execution and indicators
-![Trade demo](./trade sample)
+![Trade_demo](./trade.png)
 
 ## Distribution of Out-of-sample results
-![Distribution](./Distribution)
+![Distribution](./Distribution.png)
 
 ## Testing
 It has been tested on a AWS server running Ubuntu. 
